@@ -1,0 +1,14 @@
+# Manim media output
+video_pipeline/media/
+video_pipeline/output/
+video_pipeline/timings.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment
+.video_pipeline_env/
+.env
